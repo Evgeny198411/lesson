@@ -1,5 +1,6 @@
 # lesson
-привет пока мастерская 2
+hello
+bet
 street
 house
 cat
